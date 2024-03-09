@@ -87,7 +87,7 @@ O gráfico "Avaliação dos Clientes" apresenta a distribuição das notas de av
 
 O gráfico "Tipo de Pagamento" nos apresenta quais os meios de pagamento mais utilizados pelos clientes. Em primeiro lugar, e de forma bastante expressiva, temos o cartão de crédito que é o grande campeão da preferência, com uma média de 3,51 de números de parcelas escolhidas para quando é decidido por parcelamento de compras. Esse dado pode beneficiar a loja com impulsionamento de estratégias sobre juros no cartão de crédito, melhoria de parcelamentos ou até mesmo oferecer benefícios de desconto para incentivo de pagamentos à vista no boleto ou no cartão de débito.
 
-Por fim, temo o mapa geográfico de "Distribuição de Vendas por Estado" que apresenta o total de vendas de acordo com a localidade. Este gráfico utiliza saturação de cor para representar as quantidades, onde os valores mais altos possuem tons mais fortes de azul e os valores mais baixos possuem um azul bem claro tendendo ao cinza. Ao passar o mouse por cada estado é possível visualizar a contagem de vendas referente. Nos dois cartões abaixo do mapa temos o total de cidades e estados abrangidos.
+Por fim, temos o mapa geográfico de "Distribuição de Vendas por Estado" que apresenta o total de vendas de acordo com a localidade. Este gráfico utiliza saturação de cor para representar as quantidades, onde os valores mais altos possuem tons mais fortes de azul e os valores mais baixos possuem um azul bem claro tendendo ao cinza. Ao passar o mouse por cada estado é possível visualizar a contagem de vendas referente. Nos dois cartões abaixo do mapa temos o total de cidades e estados abrangidos.
 
 ![One-page report](image/dashboard_pag1.png)
 
